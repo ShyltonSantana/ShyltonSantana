@@ -21,7 +21,7 @@ Adoro também o mundo geek, astrologia e nerd.
 
 
 
->Uma frase
+> Um computador mereceria ser chamado de inteligente se pudesse enganar um humano fazendo-o acreditar que era humano.    Alan turing
 
 
 Gráfico
