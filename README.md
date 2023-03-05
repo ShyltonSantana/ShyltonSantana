@@ -1,7 +1,7 @@
 # Olá pessoal 	😄
 
 
-Meu nome é Shylton sou estudante do curso de back end da Cubos Academy, adoro programar e compartilhar conhecimento e experiências e estudos
+Meu nome é Shylton sou estudante do curso de back end da Cubos Academy, adoro programar e compartilhar conhecimento e experiências de estudos
 
 Adoro também o mundo geek, astrologia e nerd.
 
