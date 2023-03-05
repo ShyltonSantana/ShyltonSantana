@@ -14,7 +14,6 @@ Adoro também o mundo geek, astrologia e nerd.
 ### 🤖 Hard skills:
 
 
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescrit](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
